@@ -1,6 +1,8 @@
 # Walls.io CSS3D wall
 
-Based on [CSS3D Periodic table](http://mrdoob.github.io/three.js/examples/css3d_periodictable.html)
+Using [Walls.io-JS-SDK](https://github.com/DieSocialisten/Walls.io-JS-SDK), based on
+[CSS3D Periodic table](http://mrdoob.github.io/three.js/examples/css3d_periodictable.html)
+shows a 3D Sphere wall fed from walls.io . Made with ♥︎
 
 # The MIT License (MIT)
 
