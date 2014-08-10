@@ -4,6 +4,17 @@ Using [Walls.io-JS-SDK](https://github.com/DieSocialisten/Walls.io-JS-SDK), base
 [CSS3D Periodic table](http://mrdoob.github.io/three.js/examples/css3d_periodictable.html)
 shows a 3D Sphere wall fed from walls.io . Made with ♥︎
 
+# Ideas / TODOs
+
+- rotate incmoming posts around their own axis
+- pan camre around the inner part of there sphere to point to the next
+  target
+- also make use of zooming when panning
+- instead of panning to the target, pick random posts?
+- increase the sphere but use a smaller "area" in the sense the
+  wall is not that much curved
+- gulp
+
 # The MIT License (MIT)
 
 Copyright (c) 2014 Markus Fischer <markus@fischer.name>
