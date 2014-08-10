@@ -13,7 +13,6 @@ shows a 3D Sphere wall fed from walls.io . Made with ♥︎
 - instead of panning to the target, pick random posts?
 - increase the sphere but use a smaller "area" in the sense the
   wall is not that much curved
-- gulp
 
 # The MIT License (MIT)
 
